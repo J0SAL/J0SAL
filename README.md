@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joy Almeida</h1>
-<h3 align="center">A passionate student who loves brainstorming activities</h3>
+<h3 align="center">A passionate student who loves brainstorming and development</h3>
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://j0sal.github.io/Portfolio/)
 
