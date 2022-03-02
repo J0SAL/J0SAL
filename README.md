@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Joy Almeida</h1>
-<h3 align="center">A passionate student who loves brainstorming and development</h3>
+<h3 align="center">I love brainstorming and development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j0sal&label=Profile%20views&color=0e75b6&style=flat" alt="j0sal" /> </p>
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://j0sal.github.io/Portfolio/)
-
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1IUY_Sb8Ibx8mlEOSG_T00xeDtKETQ3QM/view?usp=sharing)
+
+- 👨‍💻 All of my projects are available at [My Portfolio](https://j0sal.github.io/Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
