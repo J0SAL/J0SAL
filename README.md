@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j0sal&label=Profile%20views&color=0e75b6&style=flat" alt="j0sal" /> </p>
 <!-- <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"/> -->
 
-<h1 align="center">Hi 👋, I'm Joy Almeida</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Joy Almeida</h1>
 <h3 align="center">I love brainstorming and development</h3>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="250"/>
 
