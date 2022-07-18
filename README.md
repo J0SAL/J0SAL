@@ -80,9 +80,9 @@
 <!-- 📈 -->
 <h3 align="left"> My GitHub Statistics</h3>
 <p align="center">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=j0sal&theme=radical&show_icons=true&locale=en&layout=compact" alt="j0sal" />   
-    <img height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=J0SAL&theme=radical" alt="j0sal" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=j0sal&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="j0sal" />   
+    <img height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=J0SAL&theme=github-dark-blue" alt="j0sal" />
 </p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=J0SAL&theme=radical&show_icons=true&locale=en" alt="j0sal" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=J0SAL&theme=github_dark&show_icons=true&locale=en" alt="j0sal" /></p>
 
 
