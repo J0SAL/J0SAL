@@ -15,10 +15,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joy-almeida0" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="joy-almeida0"/></a>
+  <a href="https://twitter.com/_j0sal" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
   <a href="https://medium.com/@j0sal" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://www.leetcode.com/j0sal" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
 <a href="https://auth.geeksforgeeks.org/user/josal" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-<a href="https://twitter.com/_j0sal" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+
 
 </p>
 
@@ -89,5 +90,11 @@
     <img height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=J0SAL&theme=github-dark-blue" alt="j0sal" />
 </p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=J0SAL&theme=github_dark&show_icons=true&locale=en" alt="j0sal" /></p>
+
+<p align="center">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=J0SAL&theme=github" alt="j0sal"/>
+</p> 
+
+<!-- [![Joy's github activity graph](https://activity-graph.herokuapp.com/graph?username=J0SAL&theme=github)](https://github.com/J0SAL/github-readme-activity-graph) -->
 
 
