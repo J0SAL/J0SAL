@@ -8,8 +8,8 @@
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1IUY_Sb8Ibx8mlEOSG_T00xeDtKETQ3QM/view?usp=sharing)
 - 👨‍💻 All of my projects are available at [My Portfolio](https://joy-almeida.netlify.app/)
 - 🔭 I’m currently working on **Sentiment Analysis**
-- 🌱 I’m currently learning **everything xD**
-- 💬 Ask me about **Next.Js, Flutter, Flask, C++, ML**
+- 🌱 I’m currently learning **Full Stack Blockchain Development**
+- 💬 Ask me about **Next.Js, C++, ML**
 - 📈 Contact me : joy.almeida0@gmail.com
 ---
 <h3 align="left">Connect with me:</h3>
