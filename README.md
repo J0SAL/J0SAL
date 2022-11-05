@@ -14,8 +14,8 @@
 
 
 ## 🏆 Achievements
-- Winner at Nation Level **Smart India Hackathon'22**
-- Winner at Nation Level **IBM Hack Challenge'22**
+- Winner at National Level **Smart India Hackathon'22**
+- Winner at National Level **IBM Hack Challenge'22**
 - 1st place in **Blind Coding Competation** at Universal College of Engineering, 2020
 - 2nd Place at Technowvent **Quiz Competation** at Bhausaheb Vartak Polytechnic, 2020
 ---
