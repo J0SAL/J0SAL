@@ -19,6 +19,9 @@
 - 1st place in **Blind Coding Competation** at Universal College of Engineering, 2020
 - 2nd Place at Technowvent **Quiz Competation** at Bhausaheb Vartak Polytechnic, 2020
 ---
+
+[![@j0sal's Holopin board](https://holopin.me/j0sal)](https://holopin.io/@j0sal)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joy-almeida0" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="joy-almeida0"/></a>
