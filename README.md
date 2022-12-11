@@ -14,8 +14,8 @@
 
 
 ## 🏆 Achievements
-- Winner at National Level **Smart India Hackathon'22** organized by **Gov. of India** and **AICTE**
-- Winner at National Level **IBM Hack Challenge'22** by **IBM** with 20,000+ enrollments.
+- Winner at **Smart India Hackathon'22**, a National Level hackathon organized by **Gov. of India** and **AICTE**
+- Winner at **IBM Hack Challenge'22**, a National Level hackathon by **IBM** with 20,000+ enrollments.
 - 1st place in **Blind Coding Competation** at Universal College of Engineering, 2020
 - 2nd Place at Technowvent **Quiz Competation** at Bhausaheb Vartak Polytechnic, 2020
 ---
