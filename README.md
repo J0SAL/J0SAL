@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1IUY_Sb8Ibx8mlEOSG_T00xeDtKETQ3QM/view?usp=sharing)
 - 👨‍💻 All of my projects are available at [My Portfolio](https://joy-almeida.netlify.app/)
-- 🌱 I’m currently learning software life cycle i.e. **DevOps**
+- 🌱 I’m currently learning Golang & software life cycle i.e. **DevOps**
 - 💬 Ask me about **Next.Js, C++, ML**
 - 🔭 Open for collaborations for working on **OpenSource** projects.
 - 📈 Contact me : joy.almeida0@gmail.com
