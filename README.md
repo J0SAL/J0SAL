@@ -1,5 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j0sal&label=Profile%20views&color=0e75b6&style=flat" alt="j0sal" /> </p>
-<!-- <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"/> -->
+<img src="https://user-images.githubusercontent.com/52382282/232130886-ad3ac1bf-ad37-4c5c-b4a6-c5046a6037da.png"/>
+
+---
 
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Joy Almeida</h1>
 <h3 align="center">I love brainstorming and development</h3>
@@ -10,33 +12,33 @@
 - 🌱 I’m currently learning software life cycle i.e. **DevOps**
 - 💬 Ask me about **Next.Js, C++, Solidity**
 - 🔭 Open for collaborations for working on **OpenSource** projects.
-- 📈 Contact me : joy.almeida0@gmail.com
 <!-- - 🔭 I’m currently working on [**Expense Tracker**](https://github.com/J0SAL/Decentralized-Expense-Tracker) -->
+
+<p align="center">
+  <a href="joy.almeida0@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://linkedin.com/in/joy-almeida0" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="joy-almeida0"/>
+  <a href="https://twitter.com/_j0sal" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+  <a href="https://www.youtube.com/channel/UCtnwc3rH9lmKH6DVjTddMGA" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
+  <a href="https://www.leetcode.com/j0sal" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+</p>
+  
 
 ## 🏆 Achievements
 - Winner at **Smart India Hackathon'22**, a National Level hackathon organized by **Gov. of India** and **AICTE**
 - Winner at **IBM Hack Challenge'22**, a National Level hackathon by **IBM** with 20,000+ enrollments.
 - 1st place in **Blind Coding Competation** at Universal College of Engineering, 2020
 - 2nd Place at Technowvent **Quiz Competation** at Bhausaheb Vartak Polytechnic, 2020
+
+
+<!-- [![@j0sal's Holopin board](https://holopin.me/j0sal)](https://holopin.io/@j0sal) -->
+
+  
+## 🏃‍♂️ Timeline
+- Freelance Content Creator [GeeksForGeeks](https://www.geeksforgeeks.org/) (Jan 2022 - Present)
+- Prep Fellow [MLH](http://fellowship.mlh.io/) (Mar 2023)
+- Full Stack Intern [Pepcorns](https://pepcorns.com/) (Nov 2022 - Jan 2023)
+- Full Stack Intern [Skinzy](https://skinzy.in/) (Jan 2022 - June 2022)
 ---
-
-[![@j0sal's Holopin board](https://holopin.me/j0sal)](https://holopin.io/@j0sal)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/joy-almeida0" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="joy-almeida0"/></a>
-  <a href="https://twitter.com/_j0sal" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-  <a href="https://www.youtube.com/channel/UCtnwc3rH9lmKH6DVjTddMGA" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
-  <a href="https://medium.com/@j0sal" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="https://www.leetcode.com/j0sal" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
-<a href="https://auth.geeksforgeeks.org/user/josal" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-
-
-
-
-
-
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
@@ -101,15 +103,7 @@
 <!-- 📈 -->
 <h3 align="left"> My GitHub Statistics</h3>
 <p align="center">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=j0sal&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="j0sal" />   
-    <img height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=J0SAL&theme=github-dark-blue" alt="j0sal" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=J0SAL&theme=github-dark-blue" alt="j0sal" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=J0SAL&theme=github_dark&show_icons=true&locale=en" alt="j0sal" />
 </p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=J0SAL&theme=github_dark&show_icons=true&locale=en" alt="j0sal" /></p>
-
-<p align="center">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=J0SAL&theme=github" alt="j0sal"/>
-</p> 
-
-<!-- [![Joy's github activity graph](https://activity-graph.herokuapp.com/graph?username=J0SAL&theme=github)](https://github.com/J0SAL/github-readme-activity-graph) -->
-
 
