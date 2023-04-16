@@ -47,7 +47,7 @@
 - **Mobile**: Flutter
 - **Backend**: NodeJS, Flask 
 - **Blockchain**: Ethereum, IPFS
-- **ML**: Tenserflow
+- **ML**: Tensorflow
 - **Database**: MySQL, MongoDB
 - **Tools**: Git, Postman, Figma, Docker
 
