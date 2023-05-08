@@ -3,14 +3,13 @@
 
 ---
 
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Joy Almeida</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm <a href="https://joy-almeida.co/">Joy Almeida</a></h1>
 <h3 align="center">I love brainstorming and development</h3>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="250"/>
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1IUY_Sb8Ibx8mlEOSG_T00xeDtKETQ3QM/view?usp=sharing)
-- 👨‍💻 All of my projects are available at [My Portfolio](https://joy-almeida.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://joy-almeida.co/)
 - 🌱 I’m currently learning software life cycle i.e. **DevOps**
-- 💬 Ask me about **Next.Js, C++, Solidity**
 - 🔭 Open for collaborations for working on **OpenSource** projects.
 <!-- - 🔭 I’m currently working on [**Expense Tracker**](https://github.com/J0SAL/Decentralized-Expense-Tracker) -->
 
@@ -39,21 +38,17 @@
 - Prep Fellow [MLH](http://fellowship.mlh.io/) (Mar 2023)
 - Full Stack Intern [Pepcorns](https://pepcorns.com/) (Nov 2022 - Jan 2023)
 - Full Stack Intern [Skinzy](https://skinzy.in/) (Jan 2022 - June 2022)
----
+
 
 ## 🛠️ Languages and Tools:
-- **Languages**: JavaScript, TypeScript, Python, Golang, Solidity, C/C++
-- **Web**: Next.js, HTML, CSS, Bootstrap, TailwindCSS
-- **Mobile**: Flutter
-- **Backend**: NodeJS, Flask 
-- **Blockchain**: Ethereum, IPFS
-- **ML**: Tensorflow
-- **Database**: MySQL, MongoDB
-- **Tools**: Git, Postman, Figma, Docker
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,py,go,solidity,flask,nextjs,mongodb,tensorflow,postman,git,docker" />
+  </a>
+</p>
 
----
-<!-- 📈 -->
-<h3 align="left"> My GitHub Statistics</h3>
+
+## 📈 GitHub Statistics
 <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=J0SAL&theme=github-dark-blue" alt="j0sal" />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=J0SAL&theme=github_dark&show_icons=true&locale=en" alt="j0sal" />
