@@ -8,18 +8,16 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="250"/>
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1IUY_Sb8Ibx8mlEOSG_T00xeDtKETQ3QM/view?usp=sharing)
-- 👨‍💻 All of my projects are available at [My Portfolio](https://joy-almeida.co/)
+- 👨‍💻 All of my projects are available at [joy-almeida.co](https://joy-almeida.co/)
 - 🌱 I’m currently learning software life cycle i.e. **DevOps**
 - 🔭 Open for collaborations for working on **OpenSource** projects.
 <!-- - 🔭 I’m currently working on [**Expense Tracker**](https://github.com/J0SAL/Decentralized-Expense-Tracker) -->
 
 <p align="center">
-  <a href="mailto:joy.almeida0@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  <a href="https://linkedin.com/in/joy-almeida0" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="joy-almeida0"/>
-  <a href="https://twitter.com/_j0sal" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
-    <a href="https://stackoverflow.com/users/16854651/josal" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-  <a href="https://www.youtube.com/channel/UCtnwc3rH9lmKH6DVjTddMGA" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
-  <a href="https://www.leetcode.com/j0sal" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  <a href="https://stackoverflow.com/users/16854651/josal" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" />
+  <a href="https://www.leetcode.com/j0sal" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" />
+  <a href="https://j0sal.hashnode.dev/" target="blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white" />
+  <a href="https://auth.geeksforgeeks.org/user/josal/articles" target="blank"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=flat&logo=geeksforgeeks&logoColor=white" />
 </p>
   
 
