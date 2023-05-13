@@ -1,7 +1,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j0sal&label=Profile%20views&color=0e75b6&style=flat" alt="j0sal" /> </p>
-<img src="https://user-images.githubusercontent.com/52382282/232130886-ad3ac1bf-ad37-4c5c-b4a6-c5046a6037da.png"/>
-
----
 
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm <a href="https://joy-almeida.co/">Joy Almeida</a></h1>
 <h3 align="center">I love brainstorming and development</h3>
