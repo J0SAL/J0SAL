@@ -6,7 +6,7 @@
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1H-DR-DiFxH5830lzgW-D_qd-3GP0VJRq/view?usp=sharing)
 - 👨‍💻 All of my projects are available at [joy-almeida.co](https://joy-almeida.co/)
-- 🌱 I’m currently learning software life cycle i.e. **DevOps**
+- 🌱 I’m currently exploring **DevOps**
 - 🔭 Open for collaborations for working on **OpenSource** projects.
 <!-- - 🔭 I’m currently working on [**Expense Tracker**](https://github.com/J0SAL/Decentralized-Expense-Tracker) -->
 
@@ -29,6 +29,7 @@
 
   
 ## 🏃‍♂️ Timeline
+- Project Admin [GirlScript Summer of Code](https://gssoc.girlscript.tech/) (May 2023 - Aug 2023)
 - Freelance Content Writer [GeeksForGeeks](https://www.geeksforgeeks.org/) (Jan 2022 - Present)
 - Prep Fellow [MLH](http://fellowship.mlh.io/) (Mar 2023)
 - Full Stack Intern [Pepcorns](https://pepcorns.com/) (Nov 2022 - Jan 2023)
