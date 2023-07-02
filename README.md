@@ -30,7 +30,7 @@
   
 ## 🏃‍♂️ Timeline
 - Project Admin [GirlScript Summer of Code](https://gssoc.girlscript.tech/) (May 2023 - Aug 2023)
-- Freelance Content Writer [GeeksForGeeks](https://www.geeksforgeeks.org/) (Jan 2022 - Present)
+- Freelance Content Writer [GeeksForGeeks](https://www.geeksforgeeks.org/) (Feb 2023 - Present)
 - Prep Fellow [MLH](http://fellowship.mlh.io/) (Mar 2023)
 - Full Stack Intern [Pepcorns](https://pepcorns.com/) (Nov 2022 - Jan 2023)
 - Full Stack Intern [Skinzy](https://skinzy.in/) (Jan 2022 - June 2022)
