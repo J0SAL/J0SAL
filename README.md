@@ -15,6 +15,7 @@
   <a href="https://www.leetcode.com/j0sal" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" />
   <a href="https://j0sal.hashnode.dev/" target="blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white" />
   <a href="https://auth.geeksforgeeks.org/user/josal/articles" target="blank"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=flat&logo=geeksforgeeks&logoColor=white" />
+  <a href="https://youtube.com/@j0sal" target="blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white" />
 </p>
   
 
