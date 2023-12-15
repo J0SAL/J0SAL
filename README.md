@@ -20,6 +20,7 @@
   
 
 ## 🏆 Achievements
+- Winner at **[EthIndia](https://ethindia.co/)'23**, World's biggest Ethereum Hackathon
 - Winner at **Smart India Hackathon'22**, a National Level hackathon organized by **Gov. of India** and **AICTE**
 - Winner at **IBM Hack Challenge'22**, a National Level hackathon by **IBM** with 20,000+ enrollments.
 - 1st place in **Blind Coding Competation** at Universal College of Engineering, 2020
