@@ -21,8 +21,8 @@
 
 ## 🏆 Achievements
 - Winner at **[EthIndia](https://ethindia.co/)'23**, World's biggest Ethereum Hackathon
-- Winner at **Smart India Hackathon'22**, a National Level hackathon organized by **Gov. of India** and **AICTE**
-- Winner at **IBM Hack Challenge'22**, a National Level hackathon by **IBM** with 20,000+ enrollments.
+- Winner at **[Smart India Hackathon'22](https://www.sih.gov.in/sih2022s)**, a National Level hackathon organized by **Gov. of India** and **AICTE**
+- Winner at **[IBM Hack Challenge'22](https://smartinternz.com/ibm-hack-challenge-2022)**, a National Level hackathon by **IBM** with 20,000+ enrollments.
 - 1st place in **Blind Coding Competation** at Universal College of Engineering, 2020
 - 2nd Place at Technowvent **Quiz Competation** at Bhausaheb Vartak Polytechnic, 2020
 
@@ -31,8 +31,9 @@
 
   
 ## 🏃‍♂️ Timeline
-- Mentee [AsyncAPI](https://www.asyncapi.com/) (July 2023 - Present)
-- Freelance Content Writer [GeeksForGeeks](https://www.geeksforgeeks.org/) (Feb 2023 - Present)
+- Graduate Analyst [Barclays](https://home.barclays/) (July 2023 - Present)
+- Mentee [AsyncAPI](https://www.asyncapi.com/) (July 2023 - Jan 2024)
+- Freelance Content Writer [GeeksForGeeks](https://www.geeksforgeeks.org/) (Feb 2023 - Jan 2024)
 - Project Admin [GirlScript Summer of Code](https://gssoc.girlscript.tech/) (May 2023 - Aug 2023)
 - Prep Fellow [MLH](http://fellowship.mlh.io/) (Mar 2023)
 - Full Stack Intern [Pepcorns](https://pepcorns.com/) (Nov 2022 - Jan 2023)
