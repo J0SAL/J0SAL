@@ -54,3 +54,8 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=J0SAL&theme=github_dark&show_icons=true&locale=en" alt="j0sal" />
 </p>
 
+## 📈 Leetcode
+
+<p align="center">
+    <a href = 'https://leetcode.com/j0sal/'> <img  align= 'center' src="https://leetcode-stats-six.vercel.app/?username=j0sal&theme=github-dark-blue"/></a>
+</p>
