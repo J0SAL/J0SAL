@@ -20,6 +20,7 @@
   
 
 ## 🏆 Achievements
+- Winner at Barclays Global Hackathon'24 (internal)
 - Winner at **[EthIndia](https://ethindia.co/)'23**, World's biggest Ethereum Hackathon
 - Winner at **[Smart India Hackathon'22](https://www.sih.gov.in/sih2022s)**, a National Level hackathon organized by **Gov. of India** and **AICTE**
 - Winner at **[IBM Hack Challenge'22](https://smartinternz.com/ibm-hack-challenge-2022)**, a National Level hackathon by **IBM** with 20,000+ enrollments.
