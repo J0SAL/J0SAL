@@ -20,6 +20,7 @@
   
 
 ## 🏆 Achievements
+- Winner at **[Odoo Combat'24](https://www.odoo.com/event/odoo-combat-2024-5166/register)**, a National Level hackathon by **Odoo** with 900+ teams.
 - Winner at Barclays Global Hackathon'24 (internal)
 - Winner at **[EthIndia](https://ethindia.co/)'23**, World's biggest Ethereum Hackathon
 - Winner at **[Smart India Hackathon'22](https://www.sih.gov.in/sih2022s)**, a National Level hackathon organized by **Gov. of India** and **AICTE**
