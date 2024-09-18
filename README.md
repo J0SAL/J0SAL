@@ -33,7 +33,7 @@
 
   
 ## 🏃‍♂️ Timeline
-- Graduate Analyst [Barclays](https://home.barclays/) (July 2023 - Present)
+- Software Engineer [Barclays](https://home.barclays/) (July 2023 - Present)
 - Mentee [AsyncAPI](https://www.asyncapi.com/) (July 2023 - Jan 2024)
 - Freelance Content Writer [GeeksForGeeks](https://www.geeksforgeeks.org/) (Feb 2023 - Jan 2024)
 - Project Admin [GirlScript Summer of Code](https://gssoc.girlscript.tech/) (May 2023 - Aug 2023)
