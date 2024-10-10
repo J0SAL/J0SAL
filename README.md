@@ -45,7 +45,7 @@
 ## 🛠️ Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,go,solidity,flask,nextjs,mongodb,tensorflow,postman,git,docker" />
+    <img src="https://skillicons.dev/icons?i=aws,js,py,go,solidity,flask,nextjs,mongodb,tensorflow,postman,git,docker" />
   </a>
 </p>
 
