@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j0sal&label=Profile%20views&color=0e75b6&style=flat" alt="j0sal" /> </p>
 
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm <a href="https://joy-almeida.co/">Joy Almeida</a></h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm <a href="https://joy-almeida.netlify.app/">Joy Almeida</a></h1>
 <h3 align="center">I love brainstorming and development</h3>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="250"/>
 
