@@ -20,6 +20,7 @@
   
 
 ## 🏆 Achievements
+- 2nd Runner up in Anon Aadhar Track | **[EthIndia](https://ethindia.co/)'24**
 - Winner at **[Odoo Combat'24](https://www.odoo.com/event/odoo-combat-2024-5166/register)**, a National Level hackathon by **Odoo** with 900+ teams.
 - Winner at Barclays Global Hackathon'24 (internal)
 - Winner at **[EthIndia](https://ethindia.co/)'23**, World's biggest Ethereum Hackathon
