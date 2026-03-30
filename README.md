@@ -6,8 +6,7 @@
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1H-DR-DiFxH5830lzgW-D_qd-3GP0VJRq/view?usp=sharing)
 - 👨‍💻 All of my projects are available at my [portfolio](https://joy-almeida.netlify.app/)
-- 🌱 I’m currently wrestling with Codeforces problems | profile - [Josal](https://codeforces.com/profile/Josal)
-- 🔭 Open for collaborations for working on **OpenSource** projects.
+- 🌱 Learning new things
 <!-- - 🔭 I’m currently working on [**Expense Tracker**](https://github.com/J0SAL/Decentralized-Expense-Tracker) -->
 
 <p align="center">
