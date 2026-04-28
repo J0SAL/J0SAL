@@ -19,6 +19,7 @@
   
 
 ## 🏆 Achievements
+- Runner-up in [Innovate4FinLit Game Challenge](https://hack2skill.com/event/ncfehackathon2025)'26
 - 2nd Runner up in Anon Aadhar Track | **[EthIndia](https://ethindia.co/)'24**
 - Winner at **[Odoo Combat'24](https://www.odoo.com/event/odoo-combat-2024-5166/register)**, a National Level hackathon by **Odoo** with 900+ teams.
 - Winner at Barclays Global Hackathon'24 (internal)
